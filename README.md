@@ -1,2 +1,2 @@
 # spark-sanbox
-A repository to practice apache spark with pyspark!
+A repository to practice apache spark with pyspark, nothing formal
