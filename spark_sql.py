@@ -45,4 +45,3 @@ with SparkSession.builder.appName("socialNetwork").getOrCreate() as spark:
         .withColumn("average_value", round("average_value", 4))\
         .orderBy("average_value")\
         .show()
-
